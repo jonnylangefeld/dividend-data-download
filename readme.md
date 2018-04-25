@@ -7,7 +7,7 @@ The idea is to calculate a most realistic risk/reward score.
 
 ### Use the Data
 
-The dataset is stored in both, `instruments.p` and `instruments.json`. The pickle file is a pandas DataFrame object. The benefit of the pickle file is, that the data is already classified properly. Load it with `pandas.load_pickle('instruments.p')`   
+The dataset is stored in both, `instruments.p` and `instruments.json`. The pickle file is a pandas DataFrame object. The benefit of the pickle file is, that the data is already classified properly. Load it with `pandas.read_pickle('instruments.p')`   
 It can be merged with any other financial data set based on the symbol.  
 
 ### Approach
