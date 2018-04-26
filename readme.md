@@ -1,5 +1,9 @@
 # Dividend Growth Investment Data
 
+<p align="center">
+  <img src="banner.jpg"/ width=70%>
+</p>
+
 Dividend growth investing has been around for ages and has always been a widely appreciated way of receiving passive income. As with any other investment, an elaborated decision needs to be made which stocks to pick. Also as with any other investment: the higher the risk, the higher the potential reward. This dataset should support the decision for a portfolio selection driven by data.
 
 The [notebook](https://github.com/jonnylangefeld/dividend-data-download/blob/master/download-dividend-data.ipynb) will download all relevant data from robinhood.com and dividend.com for dividend investors.    
